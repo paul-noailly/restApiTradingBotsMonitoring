@@ -1,0 +1,7 @@
+requests
+flask
+flask_restful
+gunicorn
+firebase-admin
+numpy
+datetime

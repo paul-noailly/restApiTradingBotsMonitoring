@@ -1,0 +1,6 @@
+service-account-file.json
+**/backup
+**/data
+
+# vs code
+*.code-workspace
